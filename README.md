@@ -1,2 +1,3 @@
 #  Topic modelling algorithm using Doc2Vec embeddings and K-means clustering
-Topic modelling using Doc2Vec embeddings
+This repository contains the topic modelling algorithm that was used for studying the migraine discussions on Reddit. Due to the Reddit's terms of service, we did not include the data here. However, this methodology can be applied to any topic modelling task. To do so, you need to first [pre-process the text](https://github.com/msparsa/doc2vec-topic-modelling/blob/main/0.%20Preprocessing.ipynb), then [train multiple Doc2Vec models](https://github.com/msparsa/doc2vec-topic-modelling/blob/main/1.%20Train%20Doc2Vec%20models.ipynb) with different parameters, and finally, use these models to [perform topic modelling](https://github.com/msparsa/doc2vec-topic-modelling/blob/main/2.%20Perform%20Topic%20Modelling.ipynb).
+
